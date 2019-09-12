@@ -26,9 +26,9 @@ var game = new Phaser.Game(480, 320, Phaser.CANVAS, null, {
 
       game.load.image('ball', 'assets/images/ball.png');
       game.load.image('paddle', 'assets/images/crate1.png');
-      game.load.image('brick', 'assets/images/crate2.png');
+      game.load.image('brick', 'assets/images/block.png');
       game.load.spritesheet('ball', 'assets/images/wobble.png', 20, 20);
-      game.load.spritesheet('button', 'assets/sprites/tap.png', 120, 40);
+      game.load.spritesheet('button', 'assets/images/tap.png', 50, 70);
   }
   function create() {
       game.physics.startSystem(Phaser.Physics.ARCADE);
