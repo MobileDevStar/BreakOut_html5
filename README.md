@@ -1,5 +1,5 @@
-# BlockStacking_Html5
-This is a Html5 game to brick out blocks. It is based on Phaser Frameworks.
+# BreakOut_Html5
+This is a Html5 game to break out blocks. It is based on Phaser Frameworks.
 
 ---
 
